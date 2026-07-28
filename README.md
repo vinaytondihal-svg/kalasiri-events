@@ -1,2 +1,2 @@
-# kalasiri-events
-Official website for Kalasiri Events – Luxury Event Management, Weddings, Corporate Events, Concerts &amp; Cultural Celebrations in Bengaluru.
+# Kalasiri Events
+Upload these files to your GitHub repository and enable GitHub Pages.
